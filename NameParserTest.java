@@ -1,5 +1,3 @@
-package main.java.task30;
-
 class NameParser {
     public String parse(String[] names) {
         StringBuilder result = new StringBuilder();
