@@ -22,6 +22,6 @@ class NameParserTest {
         String[] names = {"John Doe", "Bill Mask", "Nigua Joshua"};
 
         //John, Bill, Nigua
-        System.out.println(new main.java.task29.NameParser().parse(names));
+        System.out.println(new NameParser().parse(names));
     }
 }
